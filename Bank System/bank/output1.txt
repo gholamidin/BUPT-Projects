@@ -1,0 +1,3080 @@
+T=  1
+WIN1:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=  2
+WIN1:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=  3
+WIN1:State=    WAITING,ServNo=   1,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=   2,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=   3,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=    WAITING,ServNo=V  1,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=  4
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=   2,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=  5
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=   2,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  0/ 26,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  0/ 23,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=  4->  5->  6->  7->  8->  9-> 10
+VIPList=
+T=  6
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  1/ 26,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  1/ 23,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=  4->  5->  6->  7->  8->  9-> 10
+VIPList=
+T=  7
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  0/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  2/ 26,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  2/ 23,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=  4->  5->  6->  7->  8->  9-> 10
+VIPList=
+T=  8
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  1/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  3/ 26,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  3/ 23,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=  4->  5->  6->  7->  8->  9-> 10
+VIPList=
+T=  9
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  2/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  4/ 26,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  4/ 23,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+NormList=  4->  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14
+VIPList=  2->  3->  4->  5->  6->  7
+T= 10
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  3/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  5/ 26,RestLen=  0/  0
+WIN4:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  5/ 23,RestLen=  0/  0
+WIN8:State=    WAITING,ServNo=V  2,ServLen=  0/  0,RestLen=  0/  0
+NormList=  4->  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14
+VIPList=  3->  4->  5->  6->  7
+T= 11
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  4/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  6/ 26,RestLen=  0/  0
+WIN4:State=    WAITING,ServNo=   4,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  6/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  0/  0,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14
+VIPList=  3->  4->  5->  6->  7
+T= 12
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  5/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  7/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  7/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  0/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14
+VIPList=  3->  4->  5->  6->  7
+T= 13
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  6/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  8/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  0/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  8/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  1/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14
+VIPList=  3->  4->  5->  6->  7
+T= 14
+WIN1:State= PROCESSING,ServNo=   1,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  7/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen=  9/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  1/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen=  9/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  2/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14
+VIPList=  3->  4->  5->  6->  7
+T= 15
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  8/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 10/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  2/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 10/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  3/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15
+VIPList=  3->  4->  5->  6->  7->  8
+T= 16
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen=  9/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 11/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  3/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 11/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  4/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15
+VIPList=  3->  4->  5->  6->  7->  8
+T= 17
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 10/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 12/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  4/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 12/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  5/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15
+VIPList=  3->  4->  5->  6->  7->  8
+T= 18
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 11/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 13/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  5/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 13/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  6/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15
+VIPList=  3->  4->  5->  6->  7->  8
+T= 19
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 12/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 14/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  6/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 14/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  7/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15
+VIPList=  3->  4->  5->  6->  7->  8
+T= 20
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 13/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 15/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  7/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 15/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  8/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15
+VIPList=  3->  4->  5->  6->  7->  8
+T= 21
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 14/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 16/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  8/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 16/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen=  9/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22
+VIPList=  3->  4->  5->  6->  7->  8
+T= 22
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 15/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 17/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen=  9/ 28,RestLen=  0/  0
+WIN5:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 17/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 10/ 20,RestLen=  0/  0
+NormList=  5->  6->  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22
+VIPList=  3->  4->  5->  6->  7->  8
+T= 23
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 16/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 18/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 10/ 28,RestLen=  0/  0
+WIN5:State=    WAITING,ServNo=   5,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=    WAITING,ServNo=   6,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 18/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 11/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22
+VIPList=  3->  4->  5->  6->  7->  8
+T= 24
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 17/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 19/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 11/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=    WAITING,ServNo=   6,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 19/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 12/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22
+VIPList=  3->  4->  5->  6->  7->  8
+T= 25
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 18/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 20/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 12/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  0/ 28,RestLen=  0/  0
+WIN6:State=    WAITING,ServNo=   6,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 20/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 13/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  3->  4->  5->  6->  7->  8
+T= 26
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 19/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 21/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 13/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  1/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 21/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 14/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  3->  4->  5->  6->  7->  8
+T= 27
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 20/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 22/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 14/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  2/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  0/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 22/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 15/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  3->  4->  5->  6->  7->  8
+T= 28
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 21/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 23/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 15/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  3/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  1/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  1,ServLen= 23/ 23,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 16/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  3->  4->  5->  6->  7->  8
+T= 29
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 22/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 24/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 16/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  4/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  2/ 28,RestLen=  0/  0
+WIN7:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 17/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  3->  4->  5->  6->  7->  8
+T= 30
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 23/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 25/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 17/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  5/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  3/ 28,RestLen=  0/  0
+WIN7:State=    WAITING,ServNo=V  3,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 18/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  4->  5->  6->  7->  8
+T= 31
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 24/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=   3,ServLen= 26/ 26,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 18/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  6/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  4/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 19/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  4->  5->  6->  7->  8
+T= 32
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 25/ 28,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 19/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  7/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  5/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  0/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  2,ServLen= 20/ 20,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  4->  5->  6->  7->  8
+T= 33
+WIN1:State= PROCESSING,ServNo=   1,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 26/ 28,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 20/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  8/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  6/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  1/ 28,RestLen=  0/  0
+WIN8:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  4->  5->  6->  7->  8
+T= 34
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 27/ 28,RestLen=  0/  0
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 21/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen=  9/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  7/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  2/ 28,RestLen=  0/  0
+WIN8:State=    WAITING,ServNo=V  4,ServLen=  0/  0,RestLen=  0/  0
+NormList=  7->  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  5->  6->  7->  8
+T= 35
+WIN1:State=    WAITING,ServNo=   7,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=   2,ServLen= 28/ 28,RestLen=  0/  0
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  0/ 19
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 22/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 10/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  8/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  3/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  0/  0,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  5->  6->  7->  8
+T= 36
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  1/ 19
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 23/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 11/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen=  9/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  4/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  0/ 20,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  5->  6->  7->  8
+T= 37
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  2/ 19
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 24/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 12/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 10/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  5/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  1/ 20,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  5->  6->  7->  8
+T= 38
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  3/ 19
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 25/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 13/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 11/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  6/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  2/ 20,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  5->  6->  7->  8
+T= 39
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  0/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  4/ 19
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 26/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 14/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 12/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  7/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  3/ 20,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26
+VIPList=  5->  6->  7->  8
+T= 40
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  1/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  5/ 19
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 27/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 15/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 13/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  8/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  4/ 20,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28
+VIPList=  5->  6->  7->  8->  9
+T= 41
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  2/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  6/ 19
+WIN4:State= PROCESSING,ServNo=   4,ServLen= 28/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 16/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 14/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen=  9/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  5/ 20,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28
+VIPList=  5->  6->  7->  8->  9
+T= 42
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  3/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  7/ 19
+WIN4:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 17/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 15/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 10/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  6/ 20,RestLen=  0/  0
+NormList=  8->  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28
+VIPList=  5->  6->  7->  8->  9
+T= 43
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  4/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  8/ 19
+WIN4:State=    WAITING,ServNo=   8,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 18/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 16/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 11/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  7/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28
+VIPList=  5->  6->  7->  8->  9
+T= 44
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  5/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  9/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 19/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 17/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 12/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  8/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28
+VIPList=  5->  6->  7->  8->  9
+T= 45
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  6/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 10/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  0/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 20/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 18/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 13/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen=  9/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 46
+WIN1:State= PROCESSING,ServNo=   7,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  7/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 11/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  1/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 21/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 19/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 14/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 10/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 47
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  8/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 12/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  2/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 22/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 20/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 15/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 11/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 48
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  9/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 13/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  3/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 23/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 21/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 16/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 12/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 49
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 10/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 14/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  4/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 24/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 22/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 17/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 13/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 50
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 11/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 15/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  5/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 25/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 23/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 18/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 14/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 51
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 12/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 16/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  6/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 26/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 24/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 19/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 15/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 52
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 13/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 17/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  7/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 27/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 25/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 20/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 16/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 53
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 14/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 18/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  8/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   5,ServLen= 28/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 26/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 21/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 17/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 54
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 15/ 16
+WIN3:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 19/ 19
+WIN4:State= PROCESSING,ServNo=   8,ServLen=  9/ 28,RestLen=  0/  0
+WIN5:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 27/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 22/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 18/ 20,RestLen=  0/  0
+NormList=  9-> 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30
+VIPList=  5->  6->  7->  8->  9-> 10
+T= 55
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 16/ 16
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 10/ 28,RestLen=  0/  0
+WIN5:State=    WAITING,ServNo=   9,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=   6,ServLen= 28/ 28,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 23/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 19/ 20,RestLen=  0/  0
+NormList= 10-> 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  5->  6->  7->  8->  9-> 10-> 11
+T= 56
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=  10,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 11/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 24/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  4,ServLen= 20/ 20,RestLen=  0/  0
+NormList= 11-> 12-> 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  5->  6->  7->  8->  9-> 10-> 11
+T= 57
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=  11,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 12/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  0/ 20,RestLen=  0/  0
+WIN6:State=    WAITING,ServNo=  12,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 25/ 28,RestLen=  0/  0
+WIN8:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  5->  6->  7->  8->  9-> 10-> 11
+T= 58
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  0/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 13/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  1/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 26/ 28,RestLen=  0/  0
+WIN8:State=    WAITING,ServNo=V  5,ServLen=  0/  0,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  6->  7->  8->  9-> 10-> 11
+T= 59
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  0/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  1/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 14/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  2/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  0/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 27/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  0/  0,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  6->  7->  8->  9-> 10-> 11
+T= 60
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  1/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  2/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 15/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  3/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  1/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  3,ServLen= 28/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  0/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  6->  7->  8->  9-> 10-> 11
+T= 61
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  2/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  3/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 16/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  4/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  2/ 20,RestLen=  0/  0
+WIN7:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  1/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  6->  7->  8->  9-> 10-> 11
+T= 62
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  3/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  4/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 17/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  5/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  3/ 20,RestLen=  0/  0
+WIN7:State=    WAITING,ServNo=V  6,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  2/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  7->  8->  9-> 10-> 11
+T= 63
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  4/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  5/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 18/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  6/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  4/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  3/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  7->  8->  9-> 10-> 11
+T= 64
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  5/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  6/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 19/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  7/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  5/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  0/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  4/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33
+VIPList=  7->  8->  9-> 10-> 11
+T= 65
+WIN1:State= PROCESSING,ServNo=   7,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  6/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  7/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 20/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  8/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  6/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  1/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  5/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 66
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  7/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  8/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 21/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen=  9/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  7/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  2/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  6/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 67
+WIN1:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  8/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen=  9/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 22/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 10/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  8/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  3/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  7/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 68
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen=  9/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 10/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 23/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 11/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen=  9/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  4/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  8/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 69
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  0/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 10/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 11/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 24/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 12/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 10/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  5/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen=  9/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 70
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  1/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 11/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 12/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 25/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 13/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 11/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  6/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 10/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 71
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  2/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 12/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 13/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 26/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 14/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 12/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  7/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 11/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 72
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  3/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 13/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 14/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 27/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 15/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 13/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  8/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 12/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34
+VIPList=  7->  8->  9-> 10-> 11
+T= 73
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  4/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 14/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 15/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=   8,ServLen= 28/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 16/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 14/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen=  9/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 13/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 74
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  5/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 15/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 16/ 20,RestLen=  0/  0
+WIN4:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 17/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 15/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 10/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 14/ 28,RestLen=  0/  0
+NormList= 13-> 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 75
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  6/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 16/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 17/ 20,RestLen=  0/  0
+WIN4:State=    WAITING,ServNo=  13,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 18/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 16/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 11/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 15/ 28,RestLen=  0/  0
+NormList= 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 76
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  7/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 17/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 18/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 19/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 17/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 12/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 16/ 28,RestLen=  0/  0
+NormList= 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 77
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  8/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 18/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 19/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  0/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=   9,ServLen= 20/ 20,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 18/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 13/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 17/ 28,RestLen=  0/  0
+NormList= 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 78
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen=  9/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 19/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  10,ServLen= 20/ 20,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  1/ 28,RestLen=  0/  0
+WIN5:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 19/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 14/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 18/ 28,RestLen=  0/  0
+NormList= 14-> 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 79
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 10/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 20/ 28,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  2/ 28,RestLen=  0/  0
+WIN5:State=    WAITING,ServNo=  14,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  12,ServLen= 20/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 15/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 19/ 28,RestLen=  0/  0
+NormList= 15-> 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 80
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 11/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 21/ 28,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=  15,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  3/ 28,RestLen=  0/  0
+WIN5:State=    WAITING,ServNo=  14,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 16/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 20/ 28,RestLen=  0/  0
+NormList= 16-> 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 81
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 12/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 22/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  4/ 28,RestLen=  0/  0
+WIN5:State=    WAITING,ServNo=  14,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=    WAITING,ServNo=  16,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 17/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 21/ 28,RestLen=  0/  0
+NormList= 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 82
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 13/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 23/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  0/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  5/ 28,RestLen=  0/  0
+WIN5:State=    WAITING,ServNo=  14,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 18/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 22/ 28,RestLen=  0/  0
+NormList= 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 83
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 14/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 24/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  1/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  6/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  0/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 19/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 23/ 28,RestLen=  0/  0
+NormList= 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 84
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 15/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 25/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  2/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  7/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  0/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  1/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 20/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 24/ 28,RestLen=  0/  0
+NormList= 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 85
+WIN1:State=      BREAK,ServNo=   0,ServLen=  0/  0,RestLen= 16/ 16
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 26/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  3/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  8/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  1/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  2/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 21/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 25/ 28,RestLen=  0/  0
+NormList= 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 86
+WIN1:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 27/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  4/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen=  9/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  2/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  3/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 22/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 26/ 28,RestLen=  0/  0
+NormList= 17-> 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 87
+WIN1:State=    WAITING,ServNo=  17,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  11,ServLen= 28/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  5/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 10/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  3/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  4/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 23/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 27/ 28,RestLen=  0/  0
+NormList= 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 88
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  6/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 11/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  4/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  5/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 24/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  5,ServLen= 28/ 28,RestLen=  0/  0
+NormList= 18-> 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 89
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=  18,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  7/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 12/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  5/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  6/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 25/ 28,RestLen=  0/  0
+WIN8:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  7->  8->  9-> 10-> 11-> 12
+T= 90
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  8/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 13/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  6/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  7/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 26/ 28,RestLen=  0/  0
+WIN8:State=    WAITING,ServNo=V  7,ServLen=  0/  0,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  8->  9-> 10-> 11-> 12
+T= 91
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  0/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen=  9/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 14/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  7/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  8/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 27/ 28,RestLen=  0/  0
+WIN8:State=    WAITING,ServNo=V  7,ServLen=  0/  0,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  8->  9-> 10-> 11-> 12
+T= 92
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  1/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 10/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 15/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  8/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen=  9/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  6,ServLen= 28/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  0/  0,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  8->  9-> 10-> 11-> 12
+T= 93
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  2/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 11/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 16/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen=  9/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 10/ 20,RestLen=  0/  0
+WIN7:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  0/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  8->  9-> 10-> 11-> 12
+T= 94
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  3/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 12/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 17/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 10/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 11/ 20,RestLen=  0/  0
+WIN7:State=    WAITING,ServNo=V  8,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  1/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T= 95
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  4/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 13/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 18/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 11/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 12/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  2/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T= 96
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  5/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 14/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 19/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 12/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 13/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  0/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  3/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T= 97
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  6/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 15/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 20/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 13/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 14/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  1/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  4/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T= 98
+WIN1:State= PROCESSING,ServNo=  17,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  7/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 16/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 21/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 14/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 15/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  2/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  5/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T= 99
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  8/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 17/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 22/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 15/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 16/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  3/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  6/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=100
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen=  9/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 18/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 23/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 16/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 17/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  4/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  7/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=101
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 10/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 19/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 24/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 17/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 18/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  5/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  8/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=102
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 11/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 20/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 25/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 18/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 19/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  6/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen=  9/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=103
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 12/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 21/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 26/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 19/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  16,ServLen= 20/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  7/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 10/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=104
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 13/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 22/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 27/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 20/ 28,RestLen=  0/  0
+WIN6:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  8/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 11/ 28,RestLen=  0/  0
+NormList= 19-> 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=105
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 14/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 23/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  13,ServLen= 28/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 21/ 28,RestLen=  0/  0
+WIN6:State=    WAITING,ServNo=  19,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen=  9/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 12/ 28,RestLen=  0/  0
+NormList= 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=106
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 15/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 24/ 28,RestLen=  0/  0
+WIN4:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 22/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 10/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 13/ 28,RestLen=  0/  0
+NormList= 20-> 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=107
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 16/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 25/ 28,RestLen=  0/  0
+WIN4:State=    WAITING,ServNo=  20,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 23/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  0/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 11/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 14/ 28,RestLen=  0/  0
+NormList= 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=108
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 17/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 26/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 24/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  1/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 12/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 15/ 28,RestLen=  0/  0
+NormList= 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=109
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 18/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 27/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  0/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 25/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  2/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 13/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 16/ 28,RestLen=  0/  0
+NormList= 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=110
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 19/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  15,ServLen= 28/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  1/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 26/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  3/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 14/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 17/ 28,RestLen=  0/  0
+NormList= 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=111
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 20/ 28,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  2/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 27/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  4/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 15/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 18/ 28,RestLen=  0/  0
+NormList= 21-> 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=112
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 21/ 28,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=  21,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  3/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  14,ServLen= 28/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  5/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 16/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 19/ 28,RestLen=  0/  0
+NormList= 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=113
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 22/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  4/ 28,RestLen=  0/  0
+WIN5:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  6/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 17/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 20/ 28,RestLen=  0/  0
+NormList= 22-> 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=114
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 23/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  0/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  5/ 28,RestLen=  0/  0
+WIN5:State=    WAITING,ServNo=  22,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  7/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 18/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 21/ 28,RestLen=  0/  0
+NormList= 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=115
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 24/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  1/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  6/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  8/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 19/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 22/ 28,RestLen=  0/  0
+NormList= 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=116
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 25/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  2/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  7/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  0/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen=  9/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 20/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 23/ 28,RestLen=  0/  0
+NormList= 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=117
+WIN1:State= PROCESSING,ServNo=  17,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 26/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  3/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  8/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  1/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 10/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 21/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 24/ 28,RestLen=  0/  0
+NormList= 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=118
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 27/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  4/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen=  9/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  2/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 11/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 22/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 25/ 28,RestLen=  0/  0
+NormList= 23-> 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=119
+WIN1:State=    WAITING,ServNo=  23,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  18,ServLen= 28/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  5/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 10/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  3/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 12/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 23/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 26/ 28,RestLen=  0/  0
+NormList= 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=120
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  6/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 11/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  4/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 13/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 24/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 27/ 28,RestLen=  0/  0
+NormList= 24-> 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=121
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=  24,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  7/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 12/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  5/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 14/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 25/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  7,ServLen= 28/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=122
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  8/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 13/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  6/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 15/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 26/ 28,RestLen=  0/  0
+WIN8:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=  9-> 10-> 11-> 12
+T=123
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  0/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen=  9/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 14/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  7/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 16/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 27/ 28,RestLen=  0/  0
+WIN8:State=    WAITING,ServNo=V  9,ServLen=  0/  0,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 10-> 11-> 12
+T=124
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  1/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 10/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 15/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  8/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 17/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V  8,ServLen= 28/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  0/  0,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 10-> 11-> 12
+T=125
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  2/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 11/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 16/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen=  9/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 18/ 20,RestLen=  0/  0
+WIN7:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  0/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 10-> 11-> 12
+T=126
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  3/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 12/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 17/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 10/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 19/ 20,RestLen=  0/  0
+WIN7:State=    WAITING,ServNo=V 10,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  1/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=127
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  4/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 13/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 18/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 11/ 28,RestLen=  0/  0
+WIN6:State= PROCESSING,ServNo=  19,ServLen= 20/ 20,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  2/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=128
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  5/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 14/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 19/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 12/ 28,RestLen=  0/  0
+WIN6:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  0/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  3/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=129
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  6/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 15/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 20/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 13/ 28,RestLen=  0/  0
+WIN6:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  1/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  4/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=130
+WIN1:State= PROCESSING,ServNo=  23,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  7/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 16/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 21/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 14/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  2/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  5/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=131
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  8/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 17/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 22/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 15/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  3/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  6/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=132
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen=  9/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 18/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 23/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 16/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  4/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  7/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=133
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 10/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 19/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 24/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 17/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  5/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  8/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=134
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 11/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 20/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 25/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 18/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  6/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen=  9/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=135
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 12/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 21/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 26/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 19/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  7/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 10/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=136
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 13/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 22/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 27/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 20/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  8/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 11/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=137
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 14/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 23/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  20,ServLen= 28/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 21/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen=  9/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 12/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=138
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 15/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 24/ 28,RestLen=  0/  0
+WIN4:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 22/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 10/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 13/ 28,RestLen=  0/  0
+NormList= 25-> 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=139
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 16/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 25/ 28,RestLen=  0/  0
+WIN4:State=    WAITING,ServNo=  25,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 23/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 11/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 14/ 28,RestLen=  0/  0
+NormList= 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=140
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 17/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 26/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 24/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 12/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 15/ 28,RestLen=  0/  0
+NormList= 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=141
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 18/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 27/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  0/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 25/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 13/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 16/ 28,RestLen=  0/  0
+NormList= 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=142
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 19/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  21,ServLen= 28/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  1/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 26/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 14/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 17/ 28,RestLen=  0/  0
+NormList= 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=143
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 20/ 28,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  2/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 27/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 15/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 18/ 28,RestLen=  0/  0
+NormList= 26-> 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=144
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 21/ 28,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=  26,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  3/ 28,RestLen=  0/  0
+WIN5:State= PROCESSING,ServNo=  22,ServLen= 28/ 28,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 16/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 19/ 28,RestLen=  0/  0
+NormList= 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=145
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 22/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  4/ 28,RestLen=  0/  0
+WIN5:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 17/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 20/ 28,RestLen=  0/  0
+NormList= 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=146
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 23/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  0/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  5/ 28,RestLen=  0/  0
+WIN5:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 18/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 21/ 28,RestLen=  0/  0
+NormList= 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=147
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 24/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  1/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  6/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 19/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 22/ 28,RestLen=  0/  0
+NormList= 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=148
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 25/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  2/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  7/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 20/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 23/ 28,RestLen=  0/  0
+NormList= 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=149
+WIN1:State= PROCESSING,ServNo=  23,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 26/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  3/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  8/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 21/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 24/ 28,RestLen=  0/  0
+NormList= 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=150
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 27/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  4/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen=  9/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 22/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 25/ 28,RestLen=  0/  0
+NormList= 27-> 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=151
+WIN1:State=    WAITING,ServNo=  27,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  24,ServLen= 28/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  5/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 10/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 23/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 26/ 28,RestLen=  0/  0
+NormList= 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=152
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  6/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 11/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 24/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 27/ 28,RestLen=  0/  0
+NormList= 28-> 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=153
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=  28,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  7/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 12/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 25/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V  9,ServLen= 28/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=154
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  8/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 13/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 26/ 28,RestLen=  0/  0
+WIN8:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 11-> 12
+T=155
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  0/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen=  9/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 14/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 27/ 28,RestLen=  0/  0
+WIN8:State=    WAITING,ServNo=V 11,ServLen=  0/  0,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 12
+T=156
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  1/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 10/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 15/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 10,ServLen= 28/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  0/  0,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 12
+T=157
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  2/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 11/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 16/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  0/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList= 12
+T=158
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  3/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 12/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 17/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=    WAITING,ServNo=V 12,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  1/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=159
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  4/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 13/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 18/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  2/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=160
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  5/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 14/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 19/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  0/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  3/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=161
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  6/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 15/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 20/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  1/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  4/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=162
+WIN1:State= PROCESSING,ServNo=  27,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  7/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 16/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 21/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  2/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  5/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=163
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  8/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 17/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 22/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  3/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  6/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=164
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen=  9/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 18/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 23/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  4/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  7/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=165
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 10/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 19/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 24/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  5/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  8/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=166
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 11/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 20/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 25/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  6/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen=  9/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=167
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 12/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 21/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 26/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  7/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 10/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=168
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 13/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 22/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 27/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  8/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 11/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=169
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 14/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 23/ 28,RestLen=  0/  0
+WIN4:State= PROCESSING,ServNo=  25,ServLen= 28/ 28,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen=  9/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 12/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=170
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 15/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 24/ 28,RestLen=  0/  0
+WIN4:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 10/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 13/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=171
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 16/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 25/ 28,RestLen=  0/  0
+WIN4:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 11/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 14/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=172
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 17/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 26/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 12/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 15/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=173
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 18/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 27/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 13/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 16/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=174
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 19/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  26,ServLen= 28/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 14/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 17/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=175
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 20/ 28,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 15/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 18/ 28,RestLen=  0/  0
+NormList= 29-> 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=176
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 21/ 28,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=  29,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 16/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 19/ 28,RestLen=  0/  0
+NormList= 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=177
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 22/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 17/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 20/ 28,RestLen=  0/  0
+NormList= 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=178
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 23/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  0/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 18/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 21/ 28,RestLen=  0/  0
+NormList= 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=179
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 24/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  1/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 19/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 22/ 28,RestLen=  0/  0
+NormList= 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=180
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 25/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  2/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 20/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 23/ 28,RestLen=  0/  0
+NormList= 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=181
+WIN1:State= PROCESSING,ServNo=  27,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 26/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  3/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 21/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 24/ 28,RestLen=  0/  0
+NormList= 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=182
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 27/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  4/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 22/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 25/ 28,RestLen=  0/  0
+NormList= 30-> 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=183
+WIN1:State=    WAITING,ServNo=  30,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  28,ServLen= 28/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  5/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 23/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 26/ 28,RestLen=  0/  0
+NormList= 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=184
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  6/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 24/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 27/ 28,RestLen=  0/  0
+NormList= 31-> 32-> 33-> 34-> 35-> 36
+VIPList=
+T=185
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=  31,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  7/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 25/ 28,RestLen=  0/  0
+WIN8:State= PROCESSING,ServNo=V 11,ServLen= 28/ 28,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=186
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  8/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 26/ 28,RestLen=  0/  0
+WIN8:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=187
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  0/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen=  9/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 27/ 28,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=188
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  1/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 10/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State= PROCESSING,ServNo=V 12,ServLen= 28/ 28,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=189
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  2/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 11/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=     ENDING,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=190
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  3/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 12/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=191
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  4/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 13/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=192
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  5/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 14/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=193
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  6/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 15/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=194
+WIN1:State= PROCESSING,ServNo=  30,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  7/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 16/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=195
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  8/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 17/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=196
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen=  9/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 18/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=197
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 10/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 19/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=198
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 11/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 20/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=199
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 12/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 21/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=200
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 13/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 22/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=201
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 14/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 23/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=202
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 15/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 24/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=203
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 16/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 25/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=204
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 17/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 26/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=205
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 18/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 27/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=206
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 19/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  29,ServLen= 28/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=207
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 20/ 28,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 32-> 33-> 34-> 35-> 36
+VIPList=
+T=208
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 21/ 28,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=  32,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=       IDLE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 33-> 34-> 35-> 36
+VIPList=
+T=209
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 22/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 33-> 34-> 35-> 36
+VIPList=
+T=210
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 23/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  0/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 33-> 34-> 35-> 36
+VIPList=
+T=211
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 24/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  1/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 33-> 34-> 35-> 36
+VIPList=
+T=212
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 25/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  2/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 33-> 34-> 35-> 36
+VIPList=
+T=213
+WIN1:State= PROCESSING,ServNo=  30,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 26/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  3/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 33-> 34-> 35-> 36
+VIPList=
+T=214
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 27/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  4/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 33-> 34-> 35-> 36
+VIPList=
+T=215
+WIN1:State=    WAITING,ServNo=  33,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  31,ServLen= 28/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  5/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 34-> 35-> 36
+VIPList=
+T=216
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  6/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 34-> 35-> 36
+VIPList=
+T=217
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=    WAITING,ServNo=  34,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  7/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=218
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  8/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=219
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  0/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen=  9/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=220
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  1/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 10/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=221
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  2/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 11/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=222
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  3/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 12/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=223
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  4/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 13/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=224
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  5/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 14/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=225
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  6/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 15/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=226
+WIN1:State= PROCESSING,ServNo=  33,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  7/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 16/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=227
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  8/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 17/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=228
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen=  9/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 18/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=229
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 10/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 19/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=230
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 11/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 20/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=231
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 12/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 21/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=232
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 13/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 22/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=233
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 14/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 23/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=234
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 15/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 24/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=235
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 16/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 25/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=236
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 17/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 26/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=237
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 18/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 27/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=238
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 19/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  32,ServLen= 28/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=239
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 20/ 28,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 35-> 36
+VIPList=
+T=240
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 21/ 28,RestLen=  0/  0
+WIN3:State=    WAITING,ServNo=  35,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 36
+VIPList=
+T=241
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 22/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 36
+VIPList=
+T=242
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 23/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  0/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 36
+VIPList=
+T=243
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 24/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  1/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 36
+VIPList=
+T=244
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 25/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  2/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 36
+VIPList=
+T=245
+WIN1:State= PROCESSING,ServNo=  33,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 26/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  3/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 36
+VIPList=
+T=246
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 27/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  4/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList= 36
+VIPList=
+T=247
+WIN1:State=    WAITING,ServNo=  36,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State= PROCESSING,ServNo=  34,ServLen= 28/ 28,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  5/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=248
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  6/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=249
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  0/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  7/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=250
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  1/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  8/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=251
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  2/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen=  9/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=252
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  3/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 10/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=253
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  4/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 11/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=254
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  5/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 12/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=255
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  6/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 13/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=256
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  7/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 14/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=257
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  8/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 15/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=258
+WIN1:State= PROCESSING,ServNo=  36,ServLen=  9/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 16/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=259
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 10/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 17/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=260
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 11/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 18/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=261
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 12/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 19/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=262
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 13/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 20/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=263
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 14/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 21/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=264
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 15/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 22/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=265
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 16/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 23/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=266
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 17/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 24/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=267
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 18/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 25/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=268
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 19/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 26/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=269
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 20/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 27/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=270
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 21/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State= PROCESSING,ServNo=  35,ServLen= 28/ 28,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=271
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 22/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=272
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 23/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=273
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 24/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=274
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 25/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=275
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 26/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=276
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 27/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=277
+WIN1:State= PROCESSING,ServNo=  36,ServLen= 28/ 28,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=278
+WIN1:State=     ENDING,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=279
+WIN1:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=       IDLE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=
+T=280
+WIN1:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN2:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN3:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN4:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN5:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN6:State=      CLOSE,ServNo=   0,ServLen=  0/  0,RestLen=  0/  0
+WIN7:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+WIN8:State=      CLOSE,ServNo=V  0,ServLen=  0/  0,RestLen=  0/  0
+NormList=
+VIPList=

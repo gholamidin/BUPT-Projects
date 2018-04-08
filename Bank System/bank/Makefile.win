@@ -1,0 +1,58 @@
+# Project: bank
+# Makefile created by Dev-C++ 5.7.1
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o keyboard.o Open.o output.o Control.o State_trans.o vip.o filetest.o file_input.o Graphical.o input_VIP.o
+LINKOBJ  = main.o keyboard.o Open.o output.o Control.o State_trans.o vip.o filetest.o file_input.o Graphical.o input_VIP.o
+LIBS     = -L"D:/Dev-C++5.7.1/32λ/MinGW32/lib" -L"D:/Dev-C++5.7.1/32λ/MinGW32/mingw32/lib" -static-libstdc++ -static-libgcc libegg22.a libwinmm.a -g3
+INCS     = -I"D:/Dev-C++5.7.1/32λ/MinGW32/include" -I"D:/Dev-C++5.7.1/32λ/MinGW32/mingw32/include"
+CXXINCS  = -I"D:/Dev-C++5.7.1/32λ/MinGW32/include" -I"D:/Dev-C++5.7.1/32λ/MinGW32/mingw32/include" -I"D:/Dev-C++5.7.1/32λ/MinGW32/lib/gcc/mingw32/4.8.1/include/c++"
+BIN      = bank.exe
+CXXFLAGS = $(CXXINCS) -g3
+CFLAGS   = $(INCS) -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.c
+	$(CC) -c main.c -o main.o $(CFLAGS)
+
+keyboard.o: keyboard.c
+	$(CC) -c keyboard.c -o keyboard.o $(CFLAGS)
+
+Open.o: Open.c
+	$(CC) -c Open.c -o Open.o $(CFLAGS)
+
+output.o: output.c
+	$(CC) -c output.c -o output.o $(CFLAGS)
+
+Control.o: Control.c
+	$(CC) -c Control.c -o Control.o $(CFLAGS)
+
+State_trans.o: State_trans.c
+	$(CC) -c State_trans.c -o State_trans.o $(CFLAGS)
+
+vip.o: vip.c
+	$(CC) -c vip.c -o vip.o $(CFLAGS)
+
+filetest.o: filetest.c
+	$(CC) -c filetest.c -o filetest.o $(CFLAGS)
+
+file_input.o: file_input.c
+	$(CC) -c file_input.c -o file_input.o $(CFLAGS)
+
+Graphical.o: Graphical.c
+	$(CC) -c Graphical.c -o Graphical.o $(CFLAGS)
+
+input_VIP.o: input_VIP.c
+	$(CC) -c input_VIP.c -o input_VIP.o $(CFLAGS)

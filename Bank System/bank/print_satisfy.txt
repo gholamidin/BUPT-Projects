@@ -1,0 +1,11 @@
+WIN1:CustCount=  1  ServLen=   13 PerServLen=13 CustSatisfyGood=  0 CustSatisfyNormal=  1 CustSatisfyBad=  0 
+WIN2:CustCount=  1  ServLen=   23 PerServLen=23 CustSatisfyGood=  0 CustSatisfyNormal=  1 CustSatisfyBad=  0 
+WIN3:CustCount=  1  ServLen=   11 PerServLen=11 CustSatisfyGood=  1 CustSatisfyNormal=  0 CustSatisfyBad=  0 
+WIN4:CustCount=  0  ServLen=    0 PerServLen= 0 CustSatisfyGood=  0 CustSatisfyNormal=  0 CustSatisfyBad=  0 
+WIN5:CustCount=  0  ServLen=    0 PerServLen= 0 CustSatisfyGood=  0 CustSatisfyNormal=  0 CustSatisfyBad=  0 
+WIN6:CustCount=  0  ServLen=    0 PerServLen= 0 CustSatisfyGood=  0 CustSatisfyNormal=  0 CustSatisfyBad=  0 
+WIN7:CustCount=  0  ServLen=    0 PerServLen= 0 CustSatisfyGood=  0 CustSatisfyNormal=  0 CustSatisfyBad=  0 
+WIN8:CustCount=  0  ServLen=    0 PerServLen= 0 CustSatisfyGood=  0 CustSatisfyNormal=  0 CustSatisfyBad=  0 
+TotalCustNormCount=  3
+TotalCustVIPCount=  0
+SatisfyNotGoodWin=Win1, Win2

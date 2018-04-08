@@ -1,0 +1,16 @@
+program test(input, output);
+var ary : array [1..100] of integer;
+	x : integer;
+function f1 : char;
+	begin
+		ary[100] := ary[100] + 1;
+		ary[99] := 2
+	end;
+begin
+x := f1();
+if x+2 then
+	x[1] := x[1] + 1
+else
+	x[1] := (x[1]+1)mod(2*(3+x[1]))
+end.
+

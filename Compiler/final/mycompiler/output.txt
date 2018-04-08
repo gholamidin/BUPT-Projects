@@ -1,0 +1,26 @@
+#include<stdio.h> 
+int ary[100];int x;
+
+char f1
+{
+	
+ary[99]=ary[99]+1;
+	ary[98]=2;
+
+}
+
+int main()
+{
+	x=f1();
+	if(x+2)
+	{
+		x=x+1;
+	}
+	else
+	{
+		x=(x+1)%(2*(3+x));
+	}
+
+
+	return 0;
+}
