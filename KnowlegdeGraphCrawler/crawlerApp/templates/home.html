@@ -1,0 +1,71 @@
+{%load staticfiles%}
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+<title>爬虫系统</title>
+	<link href="../static/css/flatnav.css" rel="stylesheet">
+	<style>
+body{ margin:0; padding:0;position: relative;}
+.abc{    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    /*position: relative;*/
+    width: 100%;
+    }
+    .cover {
+    	position: absolute;
+    	left: 200px;
+    	top: 200px;
+    	z-index: 5;
+    }
+</style>
+
+
+</head>
+
+<body>
+	<div class="cover">
+	    <ul class="nav">
+
+			<li id="settings">
+				<a href="#"><img src="../static/img/settings.png" /></a>
+			</li>
+			<li>
+				<a href="http://localhost:7474/browser/" target="_blank">Knowledge Graph</a>
+			</li>
+			<li>
+				<a href="../saveHtml" target="_blank">Local PDF</a>
+			</li>
+			    
+			<li id="search">
+				<form action="" method="get">          
+					<input type="text" name="search_text" id="search_text" placeholder="Search"/>
+					<input type="button" name="search_button" id="search_button">
+				</form>
+			</li>
+			<li id="options">
+				<a href="#">Manage</a>
+				<ul class="subnav">
+					<li><a href="#">Add Data</a></li>
+					<li><a href="#">Delete</a></li>
+					<li><a href="#">Manage</a></li>
+					<li><a href="#">Options</a></li>
+				</ul>
+			</li>
+	    </ul>
+	</div>
+
+	<script src="../static/js/prefixfree-1.0.7.js" type="text/javascript"></script>
+
+	<video class="abc" autoplay="" loop="" style="background-image:url(>)"><source src="https://www-test.4paradigm.com/video/home-qingxi.mp4" type="video/mp4"></video>
+
+
+<div style="text-align:center;clear:both"><br>
+    <p>适用浏览器：FireFox、Chrome、Safari、Opera、傲游、搜狗. 不支持IE8、360、世界之窗。</p><br>
+    <p>Source：<a href="https://github.com/gholamidin" target="_blank">Github</a></p>
+</div>
+
+</body>
+</html>
